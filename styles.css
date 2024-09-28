@@ -1,0 +1,26 @@
+/* External CSS */
+
+/* Class applied to multiple elements */
+.class-one {
+    font-size: 24px;
+    font-weight: bold;
+    color: yellow;
+}
+
+/* Navigation bar styling */
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: blue;
+}
+
+/* Button styling */
+.submit-button {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
